@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35528#The-Secret-of-the-SandsThe--Water-Lily--and-her-Crew
 gutenberg_issued: '2011-03-08'
 gutenberg_type: Text
 identifiers:
